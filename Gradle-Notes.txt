@@ -10,4 +10,5 @@ to create a project
 
 gradle.build - It will have the build scripts, written in groovy or kotlin.
 >gradle tasks
-
+After build successfull. If javac comiler error - set environment variable JAVA_HOME - c:\programfiles\java\jdk22.1
+>gradlew.bat run
