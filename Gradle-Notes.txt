@@ -1,1 +1,3 @@
-
+Install Java,
+Download Gradle and install
+set environment variables.
