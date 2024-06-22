@@ -7,3 +7,7 @@ set environment variables. path - c:\\..\gradle\bin
 >gradle -v
 to create a project 
 >gradle init
+
+gradle.build - It will have the build scripts, written in groovy or kotlin.
+>gradle tasks
+
