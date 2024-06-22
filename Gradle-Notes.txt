@@ -1,3 +1,9 @@
+Gradle - It helps download the required dependencies(Ex: jdbc driver, spring, hibernate).
+
 Install Java,
 Download Gradle and install
-set environment variables.
+set environment variables. path - c:\\..\gradle\bin
+
+>gradle -v
+to create a project 
+>gradle init
