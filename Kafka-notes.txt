@@ -1,3 +1,4 @@
+https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU
 https://kafka.apache.org/quickstart
 
 Start the zoo keeper
