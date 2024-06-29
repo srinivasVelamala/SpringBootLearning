@@ -32,6 +32,5 @@ Create Producer event
 F:\LearnSpringBoot3\kafka\bin\windows>kafka-console-producer.bat --topic topic-example --bootstrap-server localhost:9092
 
 To read data by Consumer
-F:\LearnSpringBoot3\kafka\bin\windows>kafka-console-consumer.bat --topic topic-example --from-beginning --bootstrap-serv
-er localhost:9092
+F:\LearnSpringBoot3\kafka\bin\windows>kafka-console-consumer.bat --topic topic-example --from-beginning --bootstrap-server localhost:9092
 
