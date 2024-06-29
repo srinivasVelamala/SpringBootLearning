@@ -1,3 +1,10 @@
+To create the spring boot app with kafka.
+add dependencies - spring web and spring for apache kafka
+
+
+
+
+
 https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU
 https://kafka.apache.org/quickstart
 
