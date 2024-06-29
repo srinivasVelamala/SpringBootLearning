@@ -4,4 +4,6 @@ Start the zoo keeper
 F:\LearnSpringBoot3\kafka>.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 In another cmd window
 F:\LearnSpringBoot3\kafka>.\bin\windows\kafka-server-start.bat .\config\server.properties
+Create Kafka topics
+F:\LearnSpringBoot3\kafka\bin\windows>kafka-topics.bat --create --topic topic-example --bootstrap-server localhost:9092
 
