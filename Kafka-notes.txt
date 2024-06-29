@@ -2,5 +2,6 @@ https://kafka.apache.org/quickstart
 
 Start the zoo keeper
 F:\LearnSpringBoot3\kafka>.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
-
+In another cmd window
+F:\LearnSpringBoot3\kafka>.\bin\windows\kafka-server-start.bat .\config\server.properties
 
