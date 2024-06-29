@@ -15,6 +15,8 @@ spring.kafka.producer.bootstrap-servers:localhost:9092
 spring.kafka.producer.key-serializer:org.apache.kafka.common.serialization.StringSerializer
 spring.kafka.producer.value-serializer:org.apache.kafka.common.serialization.StringSerializer
 step2: create kafka task
+https://www.youtube.com/watch?v=INLg-VHFvcY&list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU&index=7
+
 
 
 
