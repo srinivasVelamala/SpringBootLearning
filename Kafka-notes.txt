@@ -4,7 +4,9 @@ add dependencies - spring web and spring for apache kafka
 How to open kafka from spring boot
 https://docs.spring.io/spring-kafka/reference/quick-tour.html
 
-
+step1: in application.properties
+spring.kafka.consumer.bootstrap-servers:localhost:9092
+srping.kafka.consumer.group-id:myGroup
 
 
 
